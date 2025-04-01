@@ -886,12 +886,12 @@ const SlideCreator = {
    */
   createRatingInfo(item) {
     const {
-      //MADE Change here
-      //CommunityRating: rating,
+      
+      CommunityRating: rating,
       CriticRating: criticRating,
       OfficialRating: age,
       PremiereDate: date,
-      //RunTimeTicks: runtime,
+      RunTimeTicks: runtime,
       ChildCount: season,
     } = item;
 
