@@ -490,12 +490,12 @@
   flex-wrap: wrap;
   font-weight: 500;
 }
-/*
+
 .tomato-rating {
   display: flex;
   align-items: center;
   margin-left: 0;
-}*/
+}
 
 .imdb-logo {
   margin-right: 1px;
@@ -505,7 +505,7 @@
   justify-content: center;
   align-items: center;
 }
-/*
+
 .tomato-logo {
   flex-wrap: wrap;
   align-content: center;
@@ -513,15 +513,15 @@
   justify-content: center;
   align-items: center;
   margin-left: 5px;
-}*/
-/*
+}
+
 .critic-logo {
   margin-right: 5px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   justify-content: center;
-}*/
+}
 
 .age-rating {
   display: flex;
